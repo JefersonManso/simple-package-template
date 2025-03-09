@@ -15,7 +15,7 @@ setup(
     description='Este é um pacote Python simples com operações básicas de soma e subtração.',
     author='Jeferson Gomes',
     author_email='jrpsb@outlook.com',
-    url='https://github.com/JefersonManso/simple-package-template',
+    url='https://github.com/JefersonManso/simple-package-template/tree/master/package_name',
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
