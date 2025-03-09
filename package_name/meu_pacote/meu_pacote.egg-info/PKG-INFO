@@ -1,0 +1,9 @@
+Metadata-Version: 2.2
+Name: meu_pacote
+Version: 0.1
+Summary: Um pacote simples de exemplo
+Author: Jeferson Gomes
+Author-email: jrpsb@outlook.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary
