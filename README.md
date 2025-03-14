@@ -1,27 +1,16 @@
-# package_name
+# Modelo de pacote simples
 
-Description. 
-The package package_name is used to:
-	- 
-	-
+### Descrição Fazer um pacote usando a estrutura simples de um módulo para testar os conhecimentos adquiridos.
 
-## Installation
+<h1>
+  <a href="https://www.dio.me/">
+     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
+    <span> Sobre o Projeto</span>
+</h1>
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Este repositório é dedicado ao BootCamp da SUZANO / DIO 
 
-```bash
-pip install package_name
-```
-
-## Usage
-
-```python
-from package_name import file1_name
-file1_name.my_function()
-```
 
 ## Author
-My_name
+Jeferson
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
